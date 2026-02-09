@@ -44,6 +44,9 @@ It serves as a communication interface between a high-performance AHB-Lite bus a
 ![Final Waveform](waveform.png)
 *Figure 1: Timing diagram showing HCLK, HSEL, PSEL, and PENABLE transitions in gtkwave simulation.*
 
+
+
+
 ![Final Waveform](waveform1.png)
 *Figure 2: Timing diagram showing HCLK, HSEL, PSEL, and PENABLE transitions in VS Code.*
 
@@ -53,5 +56,6 @@ It serves as a communication interface between a high-performance AHB-Lite bus a
 **Name**: Kartik Murti
 
 **Project Type**: Digital Logic Design / VLSI Verification
+
 
 

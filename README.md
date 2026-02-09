@@ -1,4 +1,4 @@
-# AMBA AHB-to-APB Bridge RTL Design (Icarus Verilog)
+# AHB-to-APB Bridge RTL Design (Icarus Verilog)
 
 This project implements a digital AHB-to-APB Bridge from RTL to functional verification. 
 It serves as a communication interface between a high-performance AHB-Lite bus and low-power APB3 peripherals, handling the protocol conversion and timing requirements.
@@ -56,6 +56,7 @@ It serves as a communication interface between a high-performance AHB-Lite bus a
 **Name**: Kartik Murti
 
 **Project Type**: Digital Logic Design / VLSI Verification
+
 
 
 
